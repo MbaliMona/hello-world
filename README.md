@@ -1,2 +1,1 @@
-# hello-world
-hello world repository
+Student at belgium campus
